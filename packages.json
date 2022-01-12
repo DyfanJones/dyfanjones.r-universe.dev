@@ -1,5 +1,13 @@
 [
     {
+        "package": "RAthena",
+        "url" : "https://github.com/DyfanJones/RAthena"
+    },
+    {
+        "package": "noctua",
+        "url" : "https://github.com/DyfanJones/noctua"
+    },
+    {
         "package": "sagemaker",
         "url" : "https://github.com/DyfanJones/sagemaker-r-sdk"
     },
