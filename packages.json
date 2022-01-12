@@ -1,0 +1,30 @@
+[
+    {
+        "package": "sagemaker",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-sdk"
+    },
+    {
+        "package": "sagemaker.debugger",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-debugger"
+    },
+    {
+        "package": "sagemaker.common",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-common"
+    },
+    {
+        "package": "sagemaker.local",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-local"
+    },
+    {
+        "package": "sagemaker.mlcore",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-mlcore"
+    },
+    {
+        "package": "sagemaker.mlframework",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-mlframework"
+    },
+    {
+        "package": "sagemaker.workflow",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-workflow"
+    }
+]
