@@ -30,5 +30,9 @@
     {
         "package": "sagemaker.workflow",
         "url" : "https://github.com/DyfanJones/sagemaker-r-workflow"
+    },
+    {
+        "package": "sagemaker",
+        "url" : "https://github.com/DyfanJones/sagemaker-r-sdk"
     }
 ]
