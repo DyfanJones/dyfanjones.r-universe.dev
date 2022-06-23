@@ -34,5 +34,9 @@
     {
         "package": "sagemaker",
         "url" : "https://github.com/DyfanJones/sagemaker-r-sdk"
+    },
+    {
+        "package": "s3fs",
+        "url" : "https://github.com/DyfanJones/s3fs"
     }
 ]
