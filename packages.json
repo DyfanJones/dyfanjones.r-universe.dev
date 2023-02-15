@@ -38,5 +38,9 @@
     {
         "package": "s3fs",
         "url" : "https://github.com/DyfanJones/s3fs"
+    },
+    {
+        "package": "smdocker",
+        "url" : "https://github.com/DyfanJones/sm-docker"
     }
 ]
