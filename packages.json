@@ -46,5 +46,9 @@
     {
         "package": "heck",
         "url" : "https://github.com/DyfanJones/heck"
+    },
+    {
+        "package": "weburl",
+        "url": "https://github.com/DyfanJones/weburl"
     }
 ]
