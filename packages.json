@@ -50,5 +50,9 @@
     {
         "package": "weburl",
         "url": "https://github.com/DyfanJones/weburl"
+    },
+    {
+        "package": "inih",
+        "url": "https://github.com/DyfanJones/inih"
     }
 ]
