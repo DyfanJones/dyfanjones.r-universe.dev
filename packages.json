@@ -54,5 +54,9 @@
     {
         "package": "inih",
         "url": "https://github.com/DyfanJones/inih"
+    },
+    {
+        "package": "ConfigINI",
+        "url": "https://github.com/DyfanJones/ConfigINI"
     }
 ]
