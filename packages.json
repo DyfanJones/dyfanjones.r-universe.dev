@@ -58,5 +58,9 @@
     {
         "package": "ConfigINI",
         "url": "https://github.com/DyfanJones/ConfigINI"
+    },
+    {
+        "package": "urlparse",
+        "url": "https://github.com/DyfanJones/urlparse"
     }
 ]
