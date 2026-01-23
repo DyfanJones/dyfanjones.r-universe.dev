@@ -66,5 +66,9 @@
     {
         "package": "llmjson",
         "url": "https://github.com/DyfanJones/llmjson"
+    },
+    {
+        "package": "toonfmt",
+        "url": "https://github.com/DyfanJones/toonfmt"
     }
 ]
