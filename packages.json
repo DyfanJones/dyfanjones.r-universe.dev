@@ -70,5 +70,9 @@
     {
         "package": "toonfmt",
         "url": "https://github.com/DyfanJones/toonfmt"
+    },
+    {
+        "package": "fastjmespath",
+        "url": "https://github.com/DyfanJones/fastjmespath"
     }
 ]
